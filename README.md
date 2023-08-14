@@ -1,12 +1,4 @@
 # Credit Card Default Classification
-
-## Authors:
-    - Robin Dhillon
-    - Samson Bakos
-    - Markus Nam
-    - Manvir Singh Kohli
-
-This data science project is inspired by DSCI 573 (Feature and Model Selection); a course in the Master of Data Science program at the University of British Columbia.
     
 # About 
 
